@@ -34,9 +34,9 @@ Adicionalmente, se adjuntan dos fotografías evidenciando el cambio generado al 
 ## Primera parte
 Para este trabajo se buscó una base de datos de pacientes que padecen de cáncer de ovario, y se utilizaron distintos tipos de gráficas para mostrar las relaciones que existen entre los datos recopilados, tanto cuantitativos como categóricos, en esta base de datos y cómo estas se pueden representar dependiendo de la gráfica utilizada.
 
--Estas gráficas se encuentran en el archivo adjuntado en Classroom.
--El archivo .tsv de la base de datos se adjunta en la parte superior de esta página.
--El código utilizado también se puede encontrar en la parte superior.
+- Estas gráficas se encuentran en el archivo adjuntado en Classroom.
+- El archivo .tsv de la base de datos se adjunta en la parte superior de esta página.
+- El código utilizado también se puede encontrar en la parte superior.
 
 ## Segunda parte 
 En esta parte, se utiliza el código utilizado en clase para hallar el contenido de guanina-citosina de un genoma o secuencia de una proteína, en este caso, de *E.coli*, para hallar su valor-p a partir de una prueba estadística, y su gráfica correspondiente, que se encuentra en el archivo adjuntado a classroom.
