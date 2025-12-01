@@ -48,10 +48,10 @@ Se eligió un artículo donde realizan la prueba H de Kruskal-Wallis para compar
 ## Punto 2
 Fue utilizado el modelo de Von Bertalanffy para determinar la longitud de un organismo(principalmente peces) dependiendo de su edad y de los siguientes parámetros:
 
--L:longitud del organismo en cm respecto a un tiempo t
--L infinito: longitud máxima teórica que puede alcanzar el organismo.
--k: constante de crecimiento.
--t0: tiempo teórico en el cual la longitud es 0
+- L:longitud del organismo en cm respecto a un tiempo t
+- L infinito: longitud máxima teórica que puede alcanzar el organismo.
+- k: constante de crecimiento.
+- t0: tiempo teórico en el cual la longitud es 0
 
 Este permitió ajustar una serie de datos relacionados con el crecimiento de un individuo, dichos datos fueron tomados de el artículo que se especifica en el documento.
 
