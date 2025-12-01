@@ -41,6 +41,8 @@ Para este trabajo se buscó una base de datos de pacientes que padecen de cánce
 ## Segunda parte 
 En esta parte, se utiliza el código utilizado en clase para hallar el contenido de guanina-citosina de un genoma o secuencia de una proteína, en este caso, de *E.coli*, para hallar su valor-p de forma empírica, y su gráfica correspondiente, que se encuentra en el archivo adjuntado a classroom.
 
+# Segundo trabajo
+
 
 
   
