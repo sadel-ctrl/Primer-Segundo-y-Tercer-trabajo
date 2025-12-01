@@ -1,0 +1,86 @@
+Study (year),Geographic region,area,School type,Case/population at risk,Attack rate (case/100 person),Pathogen,Duration of outbreak (days),Interventions,Quality
+Chen JM (2004)¹ ,Eastern ,Urban ,Secondary school ,"93/2,380 ",3.91 ,Shigella ,8 ,-,2 
+Ning YH (2006)² ,Northeastern ,Urban ,Secondary school ,"48/2,300 ",1.50 ,"Shigella, Salmonella ",4 ,-,3 
+Wu SX (2006) ,Eastern ,Urban ,Secondary school ,"119/2,113 ",5.63 ,Pathogenic E. coli ,8 ,-,3 
+Zhang YX (2010)⁴ ,Northeastern ,Urban ,Secondary school ,"88/1,017 ",8.65 ,Salmonella ,10 ,1256 ,3 
+Jia SJ (2007)⁵ ,Western ,Rural ,Secondary school ,"8/3,378 ",0.24 ,bacterial & Coliform ,3 ,25 ,2 
+Jin Y (2004)⁶ ,Eastern ,Urban ,Secondary school ,"48/3,700 ",1.30 ,Shigella ,9 ,2356 ,3 
+Shang FF (2006)⁷ ,Central ,-,Secondary school ,"145/4,434 ",3.27 ,Total bacterial & Coliform ,12 ,25 ,2 
+Liang PT (2008)⁸ ,Eastern ,Urban ,Secondary school ,"206/2,353 ",8.75 ,Total bacterial & Coliform ,5 ,235 ,3 
+Deng XC (2008)⁹ ,Western ,-,Secondary school ,"191/2,260 ",8.45 ,Typhoid bacillus ,-,-,2 
+Si HJ (2008)¹⁰ ,Western ,Rural ,Primary school ,61/543 ,11.23 ,Shigella ,8 ,235 ,4 
+Li LJ (2004)¹¹ ,Western ,Rural ,Secondary school ,86/891 ,9.65 ,Salmonella ,10 ,12356 ,3 
+Gao Y (2004) ¹² ,Eastern ,Rural ,Secondary school ,316/539 ,58.63 ,bacterial & Coliform ,7 ,12356 ,4 
+Liu JM (2009) ¹³ ,Central ,Urban ,Secondary school ,33/886 ,3.72 ,Shigella ,8 ,26 ,3 
+Yang ZX (2010)¹⁴ ,Western ,Rural ,Primary school ,77/280 ,27.50 ,"Shigella, Salmonella ",3 ,1 ,3 
+Lei D (2007)¹⁵ ,Western ,Rural ,Secondary school ,103/950 ,10.84 ,Total bacterial & Coliform ,8 ,235 ,3 
+Zhang MX (2010)¹⁶ ,Eastern ,Rural ,Secondary school ,"483/1,856 ",26.02 ,Pathogenic E. coli ,14 ,24 ,2 
+Qian X (2006)¹⁷ ,Eastern ,Rural ,Primary school ,36/524 ,6.87 ,Bacillus cereus ,8 ,-,4 
+Zhang Y (2006)¹⁸ ,Western ,Rural ,Primary school ,"171/1,227 ",13.94 ,Total bacterial & Coliform ,16 ,235 ,3 
+He TP (2006)¹⁹ ,Eastern ,-,Secondary school ,"80/1,034 ",7.74 ,bacterial & Coliform ,-,2 ,1 
+Li YX (2006)²⁰ ,Eastern ,Rural ,Secondary school ,102/355 ,28.73 ,Aeromonas hydrophila ,24 ,5 ,4 
+Shu Y (2006)²¹ ,Northeastern ,-,Primary school ,111/425 ,26.12 ,bacterial & Coliform ,4 ,-,1 
+Li XJ (2010)²² ,Western ,-,Secondary school ,"94/1,995 ",4.71 ,Norovirus ,10 ,-,1 
+Chen YM (2008)²³ ,Eastern ,Rural ,Secondary school ,"335/1,916 ",17.48 ,"Pathogenic E. coli, Aeromonas hydrophila ",11 ,256 ,5 
+Sun CX (2010)²⁴ ,Central ,Rural ,Secondary school ,"44/1,201 ",3.66 ,bacterial & Coliform ,5 ,1235 ,3 
+Fang CF (2004)²⁵ ,Eastern ,Rural ,Primary school ,171/804 ,21.27 ,Shigella ,17 ,1235 ,4 
+Ding H (2005)²⁶ ,Eastern ,Urban ,Secondary school ,45/802 ,5.61 ,"Pathogenic E. coli, Aeromonas hydrophila ",9 ,245 ,3 
+Cai ZH (2006)²⁷ ,Eastern ,Rural ,Primary school & Secondary school ,"48/2,065 ",2.32 ,Shigella ,9 ,12345 ,4 
+Fu MF (2006)²⁸ ,Eastern ,Rural ,Secondary school ,168/602 ,27.91 ,Pathogenic E. coli ,23 ,1235 ,5 
+Pan JR (2007)²⁹ ,Eastern ,Rural ,Primary school & Secondary school ,"73/1,015 ",7.19 ,"Shigella, Pathogenic E. coli ",12 ,12345 ,4 
+Yu JF (2007)³⁰ ,Eastern ,Rural ,Primary school ,"21/1,236 ",1.70 ,Shigella ,11 ,12345 ,2 
+Ye XM (2005)³¹ ,Eastern ,Rural ,Primary school ,86/681 ,12.63 ,Shigella ,3 ,12345 ,4 
+Zhan BD (2010)³² ,Eastern ,Rural ,Primary school ,"178/1,224 ",14.54 ,Shigella ,6 ,12345 ,4 
+CISDCP (2011)³³ ,Eastern ,Rural ,Primary school ,28/327 ,8.56 ,Pathogenic E. coli ,4 ,12345 ,2 
+CISDCP (2008)³⁴ ,Eastern ,Rural ,Primary school ,67/361 ,18.56 ,Shigella ,5 ,1235 ,3 
+CISDCP (2007)³⁵ ,Eastern ,Rural ,Secondary school ,"48/3,694 ",1.30 ,Shigella ,6 ,12356 ,4 
+CISDCP (2006-1)³⁶ ,Eastern ,Rural ,Secondary school ,26/883 ,2.83 ,Shigella ,7 ,1345 ,3 
+CISDCP (2005-1)³⁷ ,Eastern ,Urban ,Secondary school ,"44/1,070 ",4.11 ,Shigella ,6 ,12345 ,3 
+CISDCP (2006-2)³⁸ ,Eastern ,Rural ,Primary school ,38/159 ,23.90 ,bacterial & Coliform ,4 ,1345 ,4 
+CISDCP (2005-2)³⁹ ,Eastern ,Urban ,Primary school ,29/544 ,5.33 ,Shigella ,8 ,345 ,3 
+Zhang J (2007-1)⁴⁰ ,Eastern ,Rural ,Primary school & Secondary school ,"120/1,401 ",8.57 ,Shigella ,8 ,145 ,5 
+He F (2009)⁴¹ ,Western ,Rural ,Primary school ,118/548 ,21.53 ,Shigella ,- ,4 ,4 
+Sun LM (2012)⁴² ,Eastern ,Rural ,Secondary school ,"108/5,854 ",1.84 ,Norovirus ,8 ,3 ,3 
+Li YF (2013)⁴³ ,Central ,Urban ,Secondary school ,"53/1,153 ",4.60 ,Shigella ,- ,1 ,1 
+Yan HA (2012)⁴⁴ ,Western ,Rural ,Secondary school ,"196/1,123 ",17.45 ,- ,8 ,25 ,4 
+Han HQ (2013)⁴⁵ ,Eastern ,Rural ,Secondary school ,147/940 ,15.64 ,bacterial & Coliform ,4 ,1356 ,3 
+Ma GH (2012)⁴⁶ ,Northeastern ,Rural ,Primary school ,116/418 ,27.75 ,"Norovirus, Shigella, Aeromonas ",5 ,-,1 
+Hou YY (2014)⁴⁷ ,Central ,Rural ,Primary school ,63/943 ,6.68 ,Norovirus ,5 ,12345 ,2 
+Zhang SY (2014)⁴⁸ ,Western ,Urban ,Secondary school ,"51/4,226 ",1.21 ,Shigella ,5 ,-,4 
+Liu YH (2010)⁴⁹ ,Northeastern ,Rural ,Secondary school ,"164/1,709 ",9.60 ,Shigella ,22 ,1256 ,2 
+Huang XY (2008)⁵⁰ ,Western ,Rural ,Secondary school ,58/554 ,10.47 ,Shigella ,22 ,1256 ,3 
+Sun YQ (2011)⁵¹ ,Eastern ,-,Secondary school ,"1,239/2,597 ",47.71 ,Norovirus ,10 ,12345 ,4 
+Du X (2006)⁵² ,Eastern ,Urban ,-,"150/1,936 ",7.75 ,Shigella ,-,-,1 
+Jiang XF (1989)⁵³ ,Central ,Rural ,Secondary school ,39/843 ,4.63 ,bacterial & Coliform ,-,-,1 
+Xu SM (2014)⁵⁴ ,Western ,Rural ,Secondary school ,"134/1,683 ",7.96 ,Shigella ,12 ,23 ,4 
+Sun MH (2004)⁵⁵ ,Eastern ,Rural ,Primary school ,77/166 ,46.39 ,Shigella ,7 ,12356 ,4 
+Ye W (2006)⁵⁶ ,Central ,Rural ,Secondary school ,97/620 ,15.65 ,Shigella ,6 ,-,1 
+Wang DH (1987)⁵⁷ ,Northeastern ,Rural ,Secondary school ,"296/1,400 ",21.14 ,- ,15 ,125 ,2 
+Wu SL (2002)⁵⁸ ,Eastern ,Rural ,Secondary school ,15/103 ,14.56 ,Proteus ,13 ,126 ,1 
+Pan BJ (2003)⁵⁹ ,Eastern ,Rural ,Secondary school ,"115/1,316 ",8.74 ,Typhoid bacillus ,13 ,126 ,4 
+He K (1992)⁶⁰ ,Northeastern ,Rural ,Secondary school ,336/797 ,42.16 ,Shigella ,14 ,-,1 
+Luo PJ (2003)⁶¹ ,Central ,Rural ,Primary school ,187/308 ,60.71 ,Salmonella ,14 ,-,3 
+Mao LX (1999)⁶² ,Eastern ,Rural ,Primary school & Secondary school ,56/500 ,11.20 ,Pathogenic E. coli ,18 ,-,1 
+Duan LS (2004)⁶³ ,Central ,Rural ,Secondary school ,93/682 ,13.64 ,Vibrio flurialis ,3 ,25 ,2 
+Bao ZF (1992)⁶⁴ ,Eastern ,Rural ,Secondary school ,32/296 ,10.81 ,Shigella ,-,-,3 
+Guo CL (2011)⁶⁵ ,Northeastern ,Rural ,Primary school ,87/449 ,19.38 ,bacterial & Coliform ,7 ,12356 ,2 
+Xu AM (1997)⁶⁶ ,Central ,Rural ,Primary school ,16/250 ,6.40 ,Typhoid bacillus ,6 ,125 ,1 
+Wei ZG (2007)⁶⁷ ,Western ,Rural ,Secondary school ,"185/3,216 ",5.75 ,Rotavirus ,7 ,125 ,2 
+Guo YH (2013)⁶⁸ ,Central ,Urban ,Secondary school ,"196/2,233 ",8.78 ,Pathogenic E. coli ,7 ,125 ,3 
+You XY (2006)⁶⁹ ,Central ,-,Primary school ,25/381 ,6.56 ,Typhoid bacillus ,43 ,12356 ,2 
+Wang ZX (2002)⁷⁰ ,Western ,Rural ,Secondary school ,41/302 ,13.58 ,Shigella ,7 ,-,1 
+Yuan J (2007)⁷¹ ,Eastern ,Rural ,Primary school & Secondary school ,"42/2,065 ",2.03 ,Shigella ,9 ,-,3 
+Zhou SN (2014)⁷² ,Central ,Rural ,Secondary school ,"45/1,029 ",4.37 ,Shigella ,3 ,-,1 
+Deng GJ (2008)⁷³ ,Western ,Rural ,Primary school ,35/364 ,9.62 ,Shigella ,10 ,1356 ,2 
+Zhang J (2007-2)⁷⁴ ,Western ,Rural ,Secondary school ,"255/1,110 ",22.97 ,Typhoid bacillus ,21 ,1356 ,3 
+Liu YF (2007)⁷⁵ ,Western ,Urban ,Secondary school ,"238/2,150 ",11.07 ,"Shigella, Salmonella ",8 ,236 ,2 
+Zhou B (2011)⁷⁶ ,Eastern ,-,Secondary school ,32/582 ,5.50 ,bacterial & Coliform ,11 ,-,2 
+Du SP (1999)⁷⁷ ,Eastern ,-,Secondary school ,"78/2,191 ",3.56 ,bacterial & Coliform ,3 ,-,3 
+Zhao YG (2008)⁷⁸ ,Central ,Rural ,Secondary school ,"421/1,352 ",31.14 ,Shigella ,14 ,12356 ,2 
+Deng YH (2006)⁷⁹ ,Eastern ,Urban ,Secondary school ,"200/2,475 ",8.08 ,Norovirus ,7 ,-,1 
+Zhang Y (1995)⁸⁰ ,Eastern ,Urban ,Secondary school ,"239/2,155 ",11.09 ,Proteus ,5 ,-,2 
+Shen J (1992)⁸¹ ,Central ,Urban ,Secondary school ,"174/1,200 ",14.50 ,Shigella ,17 ,-,2 
+Yu YX (2006)⁸² ,Northeastern ,Urban ,Secondary school ,"456/1,198 ",38.06 ,Shigella ,14 ,2356 ,2 
+Ma EH (2011)⁸³ ,Eastern ,-,Secondary school ,"19/3,705 ",0.51 ,Aeromonas hydrophila ,-,-,1 
+Xuan YQ (2001)⁸⁴ ,Eastern ,Rural ,Secondary school ,67/715 ,9.37 ,Shigella ,24 ,12 ,3 
+Wu XX (1988)⁸⁵ ,Western ,Rural ,Primary school ,410/948 ,43.25 ,Shigella ,31 ,- ,1 
