@@ -41,7 +41,25 @@ Para este trabajo se buscó una base de datos de pacientes que padecen de cánce
 ## Segunda parte 
 En esta parte, se utiliza el código utilizado en clase para hallar el contenido de guanina-citosina de un genoma o secuencia de una proteína, en este caso, de *E.coli*, para hallar su valor-p de forma empírica, y su gráfica correspondiente, que se encuentra en el archivo adjuntado a classroom.
 
-# Segundo trabajo
+# Tercer trabajo
+## Punto 1
+Se eligió un artículo donde realizan la prueba H de Kruskal-Wallis para comparar las medianas de dos conjuntos de datos no normalizados y verificar si existe diferencia significativa entre ellos.
+
+## Punto 2
+Fue utilizado el modelo de Von Bertalanffy para determinar la longitud de un organismo(principalmente peces) dependiendo de su edad y de los siguientes parámetros:
+
+-L:longitud del organismo en cm respecto a un tiempo t
+-L infinito: longitud máxima teórica que puede alcanzar el organismo.
+-k: constante de crecimiento.
+-t0: tiempo teórico en el cual la longitud es 0
+
+Este permitió ajustar una serie de datos relacionados con el crecimiento de un individuo, dichos datos fueron tomados de el artículo que se especifica en el documento.
+
+## Punto 3
+Se utilizó el modelo epidemiológico SIR para observar el comportamiento dinámico del sistema cuando varían distintos parámetros.
+
+
+
 
 
 
